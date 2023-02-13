@@ -1,9 +1,11 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "CJ Coffey"
 ---
 
-Caption here
+My name is CJ and I love duckies
+
+![ducky](https://random-d.uk/api/50.gif)
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
